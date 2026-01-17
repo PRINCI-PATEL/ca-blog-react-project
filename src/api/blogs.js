@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:3005/blogs";
+const API_URL = "http://localhost:3007/blogs";
 
 export const getBlogs = async () => {
   const res = await fetch(API_URL);
