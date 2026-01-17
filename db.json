@@ -1,0 +1,14 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "The Future of Fintech in 2024",
+      "category": "FINANCE",
+      "description": "Exploring trends in fintech",
+      "date": "2026-01-11",
+      "coverImage": "https://images.unsplash.com/photo-1554224155-6726b3ff858f",
+      "content": "Full blog content here..."
+    }
+  ]
+}
+
